@@ -1,0 +1,6 @@
+C:/Users/b9022758/Documents/CSC8503Coursework/CSC8503 2023/CMakeFiles/ALL_BUILD.dir
+C:/Users/b9022758/Documents/CSC8503Coursework/CSC8503 2023/CMakeFiles/ZERO_CHECK.dir
+C:/Users/b9022758/Documents/CSC8503Coursework/CSC8503 2023/NCLCoreClasses/CMakeFiles/NCLCoreClasses.dir
+C:/Users/b9022758/Documents/CSC8503Coursework/CSC8503 2023/CSC8503CoreClasses/CMakeFiles/CSC8503CoreClasses.dir
+C:/Users/b9022758/Documents/CSC8503Coursework/CSC8503 2023/OpenGLRendering/CMakeFiles/OpenGLRendering.dir
+C:/Users/b9022758/Documents/CSC8503Coursework/CSC8503 2023/CSC8503/CMakeFiles/CSC8503.dir

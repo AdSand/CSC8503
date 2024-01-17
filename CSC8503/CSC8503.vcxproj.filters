@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\CMakeFiles\CSC8503.dir\cmake_pch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\EnemyStateObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\GameTechRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\NetworkedGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\NetworkPlayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\StateGameObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\TutorialGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\DoorKeyObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\HeistObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\PlayerObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\CollectableObject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\AStarEnemy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\EnemyStateObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\GameTechRenderer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\NetworkedGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\NetworkPlayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\StateGameObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\TutorialGame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\DoorKeyObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\HeistObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\PlayerObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\CollectableObject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\AStarEnemy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\CMakeFiles\CSC8503.dir\Debug\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\CMakeFiles\CSC8503.dir\Release\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\b9022758\Documents\CSC8503Coursework\CSC8503 2023\CSC8503\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{DC3B4C0B-E5C2-3907-BAF7-AB4629DC6154}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Precompile Header File">
+      <UniqueIdentifier>{C9FAF2BD-42A2-3FA4-B8D1-8A618E812538}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F78A8D3C-D0F6-355F-8D4F-108521ADA57C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
